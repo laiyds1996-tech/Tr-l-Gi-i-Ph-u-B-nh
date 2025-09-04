@@ -1,0 +1,5 @@
+{
+  "name": "Trợ lý Giải Phẫu Bệnh AI",
+  "description": "Một ứng dụng web sử dụng AI để phân tích hình ảnh giải phẫu bệnh, cung cấp chẩn đoán phân biệt và các thông tin liên quan, lấy cảm hứng từ PathologyOutlines.com.",
+  "requestFramePermissions": []
+}
